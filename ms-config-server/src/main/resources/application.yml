@@ -12,9 +12,9 @@ spring:
           uri: https://github.com/Cristian-Mamani/PROYECTO-FINAL-ULTIMO.git # repositorio
           searchPaths:
             - config-data
-          default-label: ONESAN
+          default-label: main
 
   security:
     user:
-      name: daisqui
-      password: onichan
+      name: root
+      password: 123456
